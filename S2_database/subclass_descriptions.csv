@@ -1,0 +1,165 @@
+Class Name,SubClass Of
+rice bacterial disease,RiceDO-Version2.RiceDO_000006
+rice viral disease,RiceDO-Version2.RiceDO_000006
+rice bacterial blight disease,obo.PDO_0000003 and RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000062)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000069)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000044 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000044 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice bacterial leaf streak disease,obo.PDO_0000003 and RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000072)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000116)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000044 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice blast fungal disease,obo.PDO_0000081 and RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000040 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000040 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000058) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000087)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000087)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000063) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000087)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053 & RiceDO-Version2.RiceDO_000058) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000018)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000099) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000021)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000092) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000018)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice brown spot fungal disease,obo.PDO_0000081 and (abnormalityGroup some RiceDO-Version2.RiceDO_000035) and (abnormalityGroup some RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000088)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000063) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000085 & RiceDO-Version2.RiceDO_000091)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000079) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice false smut fungal disease,obo.PDO_0000081 and (abnormalityGroup some RiceDO-Version2.RiceDO_000032) and (abnormalityGroup some RiceDO-Version2.RiceDO_000045 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053 & RiceDO-Version2.RiceDO_000054 & RiceDO-Version2.RiceDO_000071 & RiceDO-Version2.RiceDO_000072 & RiceDO-Version2.RiceDO_000073 & RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice leaf scald fungal disease,obo.PDO_0000081 and RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000037) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000039 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000058) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000086 & RiceDO-Version2.RiceDO_000091)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000039 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000059) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000088)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000131 & RiceDO-Version2.RiceDO_000140)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice narrow brown leaf spot fungal disease,obo.PDO_0000081 and RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000033) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000043 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000059)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000059 & RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000090) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice sheath blight fungal disease,obo.PDO_0000081 and RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000033) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000039 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000065)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000069)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000086 & RiceDO-Version2.RiceDO_000091)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097 & RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016 & RiceDO-Version2.RiceDO_000135)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice sheath rot fungal disease,obo.PDO_0000081 and (abnormalityGroup some RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000056)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000050 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000064 & RiceDO-Version2.RiceDO_000075)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000115) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000136)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000076) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000105) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000056) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000060) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000063 & RiceDO-Version2.RiceDO_000077) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000137)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000108) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000108) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135 & RiceDO-Version2.RiceDO_000138)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice stem rot fungal disease,obo.PDO_0000081 and (abnormalityGroup some RiceDO-Version2.RiceDO_000032) and (abnormalityGroup some RiceDO-Version2.RiceDO_000050 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000057) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000108) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023 & RiceDO-Version2.RiceDO_000135)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095 & RiceDO-Version2.RiceDO_000119) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice fungal disease,RiceDO-Version2.RiceDO_000006
+rice grassy stunt viral disease,obo.PDO_0000007 and (abnormalityGroup some RiceDO-Version2.RiceDO_000036) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000068 & RiceDO-Version2.RiceDO_000071 & RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000103 & RiceDO-Version2.RiceDO_000109) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000098) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000100 & RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice rugged stunt viral disease,obo.PDO_0000007 and (abnormalityGroup some RiceDO-Version2.RiceDO_000036) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000082) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000117) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000130)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000076 & RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000113) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000139 & RiceDO-Version2.RiceDO_000142)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000102 & RiceDO-Version2.RiceDO_000117) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000134)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000104) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135 & RiceDO-Version2.RiceDO_000141)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (hasCarrier some RiceDO-Version2.RiceDO_000121) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice yellow dwarf phytoplasma disease,obo.PDO_0000170 and (abnormalityGroup some (RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000098) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000109) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice tungro viral disease,obo.PDO_0000007 and (abnormalityGroup some RiceDO-Version2.RiceDO_000034) and (abnormalityGroup some RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000078)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000118) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095 & RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000109 & RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (hasCarrier some RiceDO-Version2.RiceDO_000122) and (hasCarrier some RiceDO-Version2.RiceDO_000125)
+rice bakanae fungal disease,obo.PDO_0000081 and (abnormalityGroup some RiceDO-Version2.RiceDO_000034) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000114 & RiceDO-Version2.RiceDO_000115) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000076) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000105) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000143)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070 & RiceDO-Version2.RiceDO_000071) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000115) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000020)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000021)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000107) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000143)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000118) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice phytoplasma disease,RiceDO-Version2.RiceDO_000006
+RiceDO Top,owl.Thing
+abnormality,RiceDO-Version2.RiceDO_000001
+pest,RiceDO-Version2.RiceDO_000001
+pest damage,RiceDO-Version2.RiceDO_000001
+plant abnormality part,RiceDO-Version2.RiceDO_000001
+rice disease,RiceDO-Version2.RiceDO_000001 and obo.PDO_0000001
+rice growth stage,RiceDO-Version2.RiceDO_000001
+rice growth stage group,RiceDO-Version2.RiceDO_000001
+symptom characteristic,RiceDO-Version2.RiceDO_000001
+transmission,RiceDO-Version2.RiceDO_000001
+color abnormality,RiceDO-Version2.RiceDO_000002
+shape abnormality,RiceDO-Version2.RiceDO_000002
+symptom abnormality,RiceDO-Version2.RiceDO_000002
+insect,RiceDO-Version2.RiceDO_000003
+insect damage,RiceDO-Version2.RiceDO_000004
+leaf,RiceDO-Version2.RiceDO_000005
+neck,RiceDO-Version2.RiceDO_000005
+node,RiceDO-Version2.RiceDO_000005
+panicle,RiceDO-Version2.RiceDO_000005
+root,RiceDO-Version2.RiceDO_000005
+seedling,RiceDO-Version2.RiceDO_000005
+spikelet,RiceDO-Version2.RiceDO_000005
+stem,RiceDO-Version2.RiceDO_000005
+tiller,RiceDO-Version2.RiceDO_000005
+transmissible rice disease,owl.Thing
+flowering,RiceDO-Version2.RiceDO_000007
+maturity,RiceDO-Version2.RiceDO_000007
+panicle initiation,RiceDO-Version2.RiceDO_000007
+tillering,RiceDO-Version2.RiceDO_000007
+transplanting,RiceDO-Version2.RiceDO_000007
+flowering to maturity,RiceDO-Version2.RiceDO_000008
+tillering to maturity,RiceDO-Version2.RiceDO_000008
+transplanting to flowering,RiceDO-Version2.RiceDO_000008
+transplanting to maturity,RiceDO-Version2.RiceDO_000008
+transplanting to panicle intiation,RiceDO-Version2.RiceDO_000008
+transplanting to tillering,RiceDO-Version2.RiceDO_000008
+dry on leaf,RiceDO-Version2.RiceDO_000009
+lesion on leaf,RiceDO-Version2.RiceDO_000009
+lesion on neck,RiceDO-Version2.RiceDO_000009
+lesion on sheath,RiceDO-Version2.RiceDO_000009
+linear lesion on leaf,RiceDO-Version2.RiceDO_000009
+linear lesion on sheath,RiceDO-Version2.RiceDO_000009
+pimple on leaf,RiceDO-Version2.RiceDO_000009
+spore ball,RiceDO-Version2.RiceDO_000009
+spot on leaf,RiceDO-Version2.RiceDO_000009
+circular spot on leaf,RiceDO-Version2.RiceDO_000046
+ellipsoid spot on leaf,RiceDO-Version2.RiceDO_000046
+spot on panicle,RiceDO-Version2.RiceDO_000009
+spot on sheath,RiceDO-Version2.RiceDO_000009
+non transmissible,RiceDO-Version2.RiceDO_000010
+transmissible,RiceDO-Version2.RiceDO_000010
+black,RiceDO-Version2.RiceDO_000011
+greenish black,RiceDO-Version2.RiceDO_000053
+brown,RiceDO-Version2.RiceDO_000011
+blackish brown,RiceDO-Version2.RiceDO_000055
+dark brown,RiceDO-Version2.RiceDO_000055
+grayish brown,RiceDO-Version2.RiceDO_000055
+light brown,RiceDO-Version2.RiceDO_000055
+red brown,RiceDO-Version2.RiceDO_000055 and RiceDO-Version2.RiceDO_000074
+reddish brown,RiceDO-Version2.RiceDO_000055
+yellow brown,RiceDO-Version2.RiceDO_000055
+gray,RiceDO-Version2.RiceDO_000011
+brownish gray,RiceDO-Version2.RiceDO_000063
+gray white,RiceDO-Version2.RiceDO_000063 and RiceDO-Version2.RiceDO_000076
+pinkish gray,RiceDO-Version2.RiceDO_000063
+green,RiceDO-Version2.RiceDO_000011
+dark green,RiceDO-Version2.RiceDO_000067
+grayish green,RiceDO-Version2.RiceDO_000067
+pale green,RiceDO-Version2.RiceDO_000067
+yellowish green,RiceDO-Version2.RiceDO_000067
+orange,RiceDO-Version2.RiceDO_000011
+purple,RiceDO-Version2.RiceDO_000011
+red,RiceDO-Version2.RiceDO_000011
+dark reddish,RiceDO-Version2.RiceDO_000074
+white,RiceDO-Version2.RiceDO_000011
+pinkish white,RiceDO-Version2.RiceDO_000076
+yellow,RiceDO-Version2.RiceDO_000011
+brownish yellow,RiceDO-Version2.RiceDO_000078
+light yellow,RiceDO-Version2.RiceDO_000078
+shape of plant part abnormality,RiceDO-Version2.RiceDO_000012
+spiral,RiceDO-Version2.RiceDO_000081
+shape of symptom abnormality,RiceDO-Version2.RiceDO_000012
+ball,RiceDO-Version2.RiceDO_000083
+circular,RiceDO-Version2.RiceDO_000083
+ellipsoid,RiceDO-Version2.RiceDO_000083
+eye,RiceDO-Version2.RiceDO_000083
+halo,RiceDO-Version2.RiceDO_000083
+linear,RiceDO-Version2.RiceDO_000083
+netlike,RiceDO-Version2.RiceDO_000083
+oval,RiceDO-Version2.RiceDO_000083
+break,RiceDO-Version2.RiceDO_000013
+burn,RiceDO-Version2.RiceDO_000013
+curl,RiceDO-Version2.RiceDO_000013
+death,RiceDO-Version2.RiceDO_000013
+discoloration,RiceDO-Version2.RiceDO_000013
+dry,RiceDO-Version2.RiceDO_000013
+excessive,RiceDO-Version2.RiceDO_000013
+fall,RiceDO-Version2.RiceDO_000013
+grassy,RiceDO-Version2.RiceDO_000013
+lesion,RiceDO-Version2.RiceDO_000013
+malform,RiceDO-Version2.RiceDO_000013
+narrow,RiceDO-Version2.RiceDO_000013
+pimple,RiceDO-Version2.RiceDO_000013
+powdery,RiceDO-Version2.RiceDO_000013
+reduce,RiceDO-Version2.RiceDO_000013
+root growing,RiceDO-Version2.RiceDO_000013
+rot,RiceDO-Version2.RiceDO_000013
+short,RiceDO-Version2.RiceDO_000013
+spore,RiceDO-Version2.RiceDO_000013
+spot,RiceDO-Version2.RiceDO_000013
+stunt,RiceDO-Version2.RiceDO_000013
+swell,RiceDO-Version2.RiceDO_000013
+tall,RiceDO-Version2.RiceDO_000013
+thin,RiceDO-Version2.RiceDO_000013
+transparent,RiceDO-Version2.RiceDO_000013
+twist,RiceDO-Version2.RiceDO_000013
+unfill,RiceDO-Version2.RiceDO_000013
+weak,RiceDO-Version2.RiceDO_000013
+wilt,RiceDO-Version2.RiceDO_000013
+brown planthopper,RiceDO-Version2.RiceDO_000014 and (hasDamage some RiceDO-Version2.RiceDO_000126) and (isCarrierOf some obo.PDO_0000126)
+green rice leafhopper,RiceDO-Version2.RiceDO_000014 and (hasDamage some RiceDO-Version2.RiceDO_000127) and (isCarrierOf some obo.PDO_0000131)
+insect as a carrier,RiceDO-Version2.RiceDO_000014
+rice black bug,RiceDO-Version2.RiceDO_000014 and (hasDamage some RiceDO-Version2.RiceDO_000128)
+zigzag leafhopper,RiceDO-Version2.RiceDO_000014 and (hasDamage some RiceDO-Version2.RiceDO_000129) and (isCarrierOf some obo.PDO_0000131) and (isCarrierOf some RiceDO-Version2.RiceDO_000146)
+brown planthopper damage,RiceDO-Version2.RiceDO_000015 and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093 & RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (isDamageOf some RiceDO-Version2.RiceDO_000121)
+green rice leafhopper damage,RiceDO-Version2.RiceDO_000015 and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)) and (isDamageOf some RiceDO-Version2.RiceDO_000122)
+rice black bug damage,RiceDO-Version2.RiceDO_000015 and (abnormalityGroup some RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000061 & RiceDO-Version2.RiceDO_000078)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000056) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000131)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078 & RiceDO-Version2.RiceDO_000079) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000118) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)) and (isDamageOf some RiceDO-Version2.RiceDO_000124)
+zigzag leafhopper damage,RiceDO-Version2.RiceDO_000015 and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000072) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000094) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016 & RiceDO-Version2.RiceDO_000131)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000140)) and (isDamageOf some RiceDO-Version2.RiceDO_000125)
+base leaf,RiceDO-Version2.RiceDO_000016
+boundary leaf,RiceDO-Version2.RiceDO_000016
+entire leaf,RiceDO-Version2.RiceDO_000016
+first leaf,RiceDO-Version2.RiceDO_000016
+flag leaf,RiceDO-Version2.RiceDO_000016
+sheath leaf,RiceDO-Version2.RiceDO_000016
+boundary sheath leaf,RiceDO-Version2.RiceDO_000135
+center sheath leaf,RiceDO-Version2.RiceDO_000135
+upper sheath leaf,RiceDO-Version2.RiceDO_000135
+vein sheath leaf,RiceDO-Version2.RiceDO_000135
+tip leaf,RiceDO-Version2.RiceDO_000016
+under side leaf,RiceDO-Version2.RiceDO_000016
+vein leaf,RiceDO-Version2.RiceDO_000016
+lower portion,RiceDO-Version2.RiceDO_000023
+rice orange leaf phytoplasma disease,obo.PDO_0000170 and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000072) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000132 & RiceDO-Version2.RiceDO_000133 & RiceDO-Version2.RiceDO_000140)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000094 & RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice dirty panicle fungal disease,obo.PDO_0000081 and (abnormalityGroup some RiceDO-Version2.RiceDO_000049 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053 & RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000066)) and (hasTransmission some RiceDO-Version2.RiceDO_000052)
+rice gall dwarf virus disease,obo.PDO_0000007 and (abnormalityGroup some RiceDO-Version2.RiceDO_000036) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000068) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000109) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070 & RiceDO-Version2.RiceDO_000076) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000104) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135 & RiceDO-Version2.RiceDO_000141)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)) and (abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000113) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000142)) and (hasCarrier some RiceDO-Version2.RiceDO_000125) and (hasTransmission some RiceDO-Version2.RiceDO_000052)

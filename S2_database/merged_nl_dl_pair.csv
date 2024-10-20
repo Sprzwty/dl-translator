@@ -1,0 +1,501 @@
+Merged
+rice bacterial blight disease SubclassOf rice bacterial disease is a rice bacterial blight disease
+rice bacterial leaf streak disease SubclassOf rice bacterial disease is a rice bacterial leaf streak disease
+rice bacterial disease SubclassOf rice bacterial disease has rice disease
+rice grassy stunt viral disease SubclassOf rice viral disease is a rice grassy stunt viral disease
+rice rugged stunt viral disease SubclassOf rice viral disease is a rice rugged stunt viral disease
+rice tungro viral disease SubclassOf rice viral disease is a rice tungro viral disease
+rice gall dwarf virus disease SubclassOf rice viral disease is a rice gall dwarf virus disease
+rice viral disease SubclassOf rice viral disease has rice disease
+rice bacterial blight disease SubclassOf rice bacterial blight disease has rice bacterial disease
+rice bacterial blight disease SubclassOf rice bacterial blight disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000062)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000069)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000044 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000044 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+rice bacterial blight disease SubclassOf rice bacterial blight disease has hasTransmission some transmissible
+rice bacterial leaf streak disease SubclassOf rice bacterial leaf streak disease has rice bacterial disease
+rice bacterial leaf streak disease SubclassOf rice bacterial leaf streak disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000072)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000116)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000044 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078))
+rice bacterial leaf streak disease SubclassOf rice bacterial leaf streak disease has hasTransmission some transmissible
+rice blast fungal disease SubclassOf rice blast fungal disease has rice fungal disease
+rice blast fungal disease SubclassOf rice blast fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000040 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000040 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000058) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000087)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000087)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000063) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000087)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053 & RiceDO-Version2.RiceDO_000058) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000018)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000099) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000021)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000092) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000018))
+rice blast fungal disease SubclassOf rice blast fungal disease has hasTransmission some transmissible
+rice brown spot fungal disease SubclassOf rice brown spot fungal disease has rice fungal disease
+rice brown spot fungal disease SubclassOf rice brown spot fungal disease has abnormalityGroup some transplanting to maturity
+rice brown spot fungal disease SubclassOf rice brown spot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000088)
+rice brown spot fungal disease SubclassOf rice brown spot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000063) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000085 & RiceDO-Version2.RiceDO_000091)
+rice brown spot fungal disease SubclassOf rice brown spot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000079) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)
+rice brown spot fungal disease SubclassOf rice brown spot fungal disease has hasTransmission some transmissible
+rice false smut fungal disease SubclassOf rice false smut fungal disease has rice fungal disease
+rice false smut fungal disease SubclassOf rice false smut fungal disease has abnormalityGroup some flowering to maturity
+rice false smut fungal disease SubclassOf rice false smut fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000045 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053 & RiceDO-Version2.RiceDO_000054 & RiceDO-Version2.RiceDO_000071 & RiceDO-Version2.RiceDO_000072 & RiceDO-Version2.RiceDO_000073 & RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)
+rice false smut fungal disease SubclassOf rice false smut fungal disease has hasTransmission some transmissible
+rice leaf scald fungal disease SubclassOf rice leaf scald fungal disease has rice fungal disease
+rice leaf scald fungal disease SubclassOf rice leaf scald fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000037) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000039 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000058) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000086 & RiceDO-Version2.RiceDO_000091)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000039 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000059) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000088)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000131 & RiceDO-Version2.RiceDO_000140))
+rice leaf scald fungal disease SubclassOf rice leaf scald fungal disease has hasTransmission some transmissible
+rice narrow brown leaf spot fungal disease SubclassOf rice narrow brown leaf spot fungal disease has rice fungal disease
+rice narrow brown leaf spot fungal disease SubclassOf rice narrow brown leaf spot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000033) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000043 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000059)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000059 & RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000090) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135))
+rice narrow brown leaf spot fungal disease SubclassOf rice narrow brown leaf spot fungal disease has hasTransmission some transmissible
+rice sheath blight fungal disease SubclassOf rice sheath blight fungal disease has rice fungal disease
+rice sheath blight fungal disease SubclassOf rice sheath blight fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000033) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000039 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000065)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000069)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000086 & RiceDO-Version2.RiceDO_000091)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097 & RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016 & RiceDO-Version2.RiceDO_000135))
+rice sheath blight fungal disease SubclassOf rice sheath blight fungal disease has hasTransmission some transmissible
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has rice fungal disease
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000056)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000050 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000064 & RiceDO-Version2.RiceDO_000075)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000115) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000136)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000076) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000105) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000056) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000060) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000063 & RiceDO-Version2.RiceDO_000077) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000137)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000108) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000108) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135 & RiceDO-Version2.RiceDO_000138)
+rice sheath rot fungal disease SubclassOf rice sheath rot fungal disease has hasTransmission some transmissible
+rice stem rot fungal disease SubclassOf rice stem rot fungal disease has rice fungal disease
+rice stem rot fungal disease SubclassOf rice stem rot fungal disease has abnormalityGroup some flowering to maturity
+rice stem rot fungal disease SubclassOf rice stem rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000050 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055)
+rice stem rot fungal disease SubclassOf rice stem rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000057) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice stem rot fungal disease SubclassOf rice stem rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000108) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023 & RiceDO-Version2.RiceDO_000135)
+rice stem rot fungal disease SubclassOf rice stem rot fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095 & RiceDO-Version2.RiceDO_000119) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice stem rot fungal disease SubclassOf rice stem rot fungal disease has hasTransmission some transmissible
+rice blast fungal disease SubclassOf rice fungal disease is a rice blast fungal disease
+rice brown spot fungal disease SubclassOf rice fungal disease is a rice brown spot fungal disease
+rice false smut fungal disease SubclassOf rice fungal disease is a rice false smut fungal disease
+rice leaf scald fungal disease SubclassOf rice fungal disease is a rice leaf scald fungal disease
+rice narrow brown leaf spot fungal disease SubclassOf rice fungal disease is a rice narrow brown leaf spot fungal disease
+rice sheath blight fungal disease SubclassOf rice fungal disease is a rice sheath blight fungal disease
+rice sheath rot fungal disease SubclassOf rice fungal disease is a rice sheath rot fungal disease
+rice stem rot fungal disease SubclassOf rice fungal disease is a rice stem rot fungal disease
+rice bakanae fungal disease SubclassOf rice fungal disease is a rice bakanae fungal disease
+rice dirty panicle fungal disease SubclassOf rice fungal disease is a rice dirty panicle fungal disease
+rice fungal disease SubclassOf rice fungal disease has rice disease
+rice grassy stunt viral disease SubclassOf rice grassy stunt viral disease has rice viral disease
+rice grassy stunt viral disease SubclassOf rice grassy stunt viral disease has abnormalityGroup some transplanting to panicle intiation
+rice grassy stunt viral disease SubclassOf rice grassy stunt viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000068 & RiceDO-Version2.RiceDO_000071 & RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000103 & RiceDO-Version2.RiceDO_000109) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+rice grassy stunt viral disease SubclassOf rice grassy stunt viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000098) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)
+rice grassy stunt viral disease SubclassOf rice grassy stunt viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000100 & RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice grassy stunt viral disease SubclassOf rice grassy stunt viral disease has hasTransmission some transmissible
+rice rugged stunt viral disease SubclassOf rice rugged stunt viral disease has rice viral disease
+rice rugged stunt viral disease SubclassOf rice rugged stunt viral disease has abnormalityGroup some transplanting to panicle intiation
+rice rugged stunt viral disease SubclassOf rice rugged stunt viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000082) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000117) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000130)
+rice rugged stunt viral disease SubclassOf rice rugged stunt viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000076 & RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000113) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000139 & RiceDO-Version2.RiceDO_000142)
+rice rugged stunt viral disease SubclassOf rice rugged stunt viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000102 & RiceDO-Version2.RiceDO_000117) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000134)
+rice rugged stunt viral disease SubclassOf rice rugged stunt viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000104) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135 & RiceDO-Version2.RiceDO_000141)
+rice rugged stunt viral disease SubclassOf rice rugged stunt viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice rugged stunt viral disease SubclassOf rice rugged stunt viral disease has hasCarrier some brown planthopper
+rice rugged stunt viral disease SubclassOf rice rugged stunt viral disease has hasTransmission some transmissible
+rice yellow dwarf phytoplasma disease SubclassOf rice yellow dwarf phytoplasma disease has rice phytoplasma disease
+rice yellow dwarf phytoplasma disease SubclassOf rice yellow dwarf phytoplasma disease has abnormalityGroup some (RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095)
+rice yellow dwarf phytoplasma disease SubclassOf rice yellow dwarf phytoplasma disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+rice yellow dwarf phytoplasma disease SubclassOf rice yellow dwarf phytoplasma disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000098) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)
+rice yellow dwarf phytoplasma disease SubclassOf rice yellow dwarf phytoplasma disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000109) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice yellow dwarf phytoplasma disease SubclassOf rice yellow dwarf phytoplasma disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice yellow dwarf phytoplasma disease SubclassOf rice yellow dwarf phytoplasma disease has hasTransmission some transmissible
+rice tungro viral disease SubclassOf rice tungro viral disease has rice viral disease
+rice tungro viral disease SubclassOf rice tungro viral disease has abnormalityGroup some transplanting to flowering
+rice tungro viral disease SubclassOf rice tungro viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000078)
+rice tungro viral disease SubclassOf rice tungro viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)
+rice tungro viral disease SubclassOf rice tungro viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000118) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)
+rice tungro viral disease SubclassOf rice tungro viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095 & RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)
+rice tungro viral disease SubclassOf rice tungro viral disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000109 & RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice tungro viral disease SubclassOf rice tungro viral disease has hasCarrier some green rice leafhopper
+rice tungro viral disease SubclassOf rice tungro viral disease has hasCarrier some zigzag leafhopper
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has rice fungal disease
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some transplanting to flowering
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000114 & RiceDO-Version2.RiceDO_000115) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000076) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000105) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000143)
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070 & RiceDO-Version2.RiceDO_000071) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000115) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000020)
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000021)
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000107) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000143)
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000118) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)
+rice bakanae fungal disease SubclassOf rice bakanae fungal disease has hasTransmission some transmissible
+rice yellow dwarf phytoplasma disease SubclassOf rice phytoplasma disease is a rice yellow dwarf phytoplasma disease
+rice orange leaf phytoplasma disease SubclassOf rice phytoplasma disease is a rice orange leaf phytoplasma disease
+rice phytoplasma disease SubclassOf rice phytoplasma disease has rice disease
+abnormality SubclassOf RiceDO Top is a abnormality
+pest SubclassOf RiceDO Top is a pest
+pest damage SubclassOf RiceDO Top is a pest damage
+plant abnormality part SubclassOf RiceDO Top is a plant abnormality part
+rice disease SubclassOf RiceDO Top is a rice disease
+rice growth stage SubclassOf RiceDO Top is a rice growth stage
+rice growth stage group SubclassOf RiceDO Top is a rice growth stage group
+symptom characteristic SubclassOf RiceDO Top is a symptom characteristic
+transmission SubclassOf RiceDO Top is a transmission
+RiceDO Top SubclassOf RiceDO Top has Thing
+color abnormality SubclassOf abnormality is a color abnormality
+shape abnormality SubclassOf abnormality is a shape abnormality
+symptom abnormality SubclassOf abnormality is a symptom abnormality
+abnormality SubclassOf abnormality has RiceDO Top
+insect SubclassOf pest is a insect
+pest SubclassOf pest has RiceDO Top
+insect damage SubclassOf pest damage is a insect damage
+pest damage SubclassOf pest damage has RiceDO Top
+leaf SubclassOf plant abnormality part is a leaf
+neck SubclassOf plant abnormality part is a neck
+node SubclassOf plant abnormality part is a node
+panicle SubclassOf plant abnormality part is a panicle
+root SubclassOf plant abnormality part is a root
+seedling SubclassOf plant abnormality part is a seedling
+spikelet SubclassOf plant abnormality part is a spikelet
+stem SubclassOf plant abnormality part is a stem
+tiller SubclassOf plant abnormality part is a tiller
+plant abnormality part SubclassOf plant abnormality part has RiceDO Top
+rice bacterial disease SubclassOf rice disease is a rice bacterial disease
+rice viral disease SubclassOf rice disease is a rice viral disease
+rice fungal disease SubclassOf rice disease is a rice fungal disease
+rice phytoplasma disease SubclassOf rice disease is a rice phytoplasma disease
+rice disease SubclassOf rice disease has RiceDO Top
+rice disease SubclassOf rice disease has PDO_0000001
+flowering SubclassOf rice growth stage is a flowering
+maturity SubclassOf rice growth stage is a maturity
+panicle initiation SubclassOf rice growth stage is a panicle initiation
+tillering SubclassOf rice growth stage is a tillering
+transplanting SubclassOf rice growth stage is a transplanting
+rice growth stage SubclassOf rice growth stage has RiceDO Top
+flowering to maturity SubclassOf rice growth stage group is a flowering to maturity
+tillering to maturity SubclassOf rice growth stage group is a tillering to maturity
+transplanting to flowering SubclassOf rice growth stage group is a transplanting to flowering
+transplanting to maturity SubclassOf rice growth stage group is a transplanting to maturity
+transplanting to panicle intiation SubclassOf rice growth stage group is a transplanting to panicle intiation
+transplanting to tillering SubclassOf rice growth stage group is a transplanting to tillering
+rice growth stage group SubclassOf rice growth stage group equivalent to hasGrowthstage some rice growth stage
+rice growth stage group SubclassOf rice growth stage group has RiceDO Top
+dry on leaf SubclassOf symptom characteristic is a dry on leaf
+lesion on leaf SubclassOf symptom characteristic is a lesion on leaf
+lesion on neck SubclassOf symptom characteristic is a lesion on neck
+lesion on sheath SubclassOf symptom characteristic is a lesion on sheath
+linear lesion on leaf SubclassOf symptom characteristic is a linear lesion on leaf
+linear lesion on sheath SubclassOf symptom characteristic is a linear lesion on sheath
+pimple on leaf SubclassOf symptom characteristic is a pimple on leaf
+spore ball SubclassOf symptom characteristic is a spore ball
+spot on leaf SubclassOf symptom characteristic is a spot on leaf
+spot on panicle SubclassOf symptom characteristic is a spot on panicle
+spot on sheath SubclassOf symptom characteristic is a spot on sheath
+symptom characteristic SubclassOf symptom characteristic equivalent to hasSymptom some abnormality
+symptom characteristic SubclassOf symptom characteristic has RiceDO Top
+non transmissible SubclassOf transmission is a non transmissible
+transmissible SubclassOf transmission is a transmissible
+transmission SubclassOf transmission has RiceDO Top
+black SubclassOf color abnormality is a black
+brown SubclassOf color abnormality is a brown
+gray SubclassOf color abnormality is a gray
+green SubclassOf color abnormality is a green
+orange SubclassOf color abnormality is a orange
+purple SubclassOf color abnormality is a purple
+red SubclassOf color abnormality is a red
+white SubclassOf color abnormality is a white
+yellow SubclassOf color abnormality is a yellow
+color abnormality SubclassOf color abnormality has abnormality
+shape of plant part abnormality SubclassOf shape abnormality is a shape of plant part abnormality
+shape of symptom abnormality SubclassOf shape abnormality is a shape of symptom abnormality
+shape abnormality SubclassOf shape abnormality has abnormality
+break SubclassOf symptom abnormality is a break
+burn SubclassOf symptom abnormality is a burn
+curl SubclassOf symptom abnormality is a curl
+death SubclassOf symptom abnormality is a death
+discoloration SubclassOf symptom abnormality is a discoloration
+dry SubclassOf symptom abnormality is a dry
+excessive SubclassOf symptom abnormality is a excessive
+fall SubclassOf symptom abnormality is a fall
+grassy SubclassOf symptom abnormality is a grassy
+lesion SubclassOf symptom abnormality is a lesion
+malform SubclassOf symptom abnormality is a malform
+narrow SubclassOf symptom abnormality is a narrow
+pimple SubclassOf symptom abnormality is a pimple
+powdery SubclassOf symptom abnormality is a powdery
+reduce SubclassOf symptom abnormality is a reduce
+root growing SubclassOf symptom abnormality is a root growing
+rot SubclassOf symptom abnormality is a rot
+short SubclassOf symptom abnormality is a short
+spore SubclassOf symptom abnormality is a spore
+spot SubclassOf symptom abnormality is a spot
+stunt SubclassOf symptom abnormality is a stunt
+swell SubclassOf symptom abnormality is a swell
+tall SubclassOf symptom abnormality is a tall
+thin SubclassOf symptom abnormality is a thin
+transparent SubclassOf symptom abnormality is a transparent
+twist SubclassOf symptom abnormality is a twist
+unfill SubclassOf symptom abnormality is a unfill
+weak SubclassOf symptom abnormality is a weak
+wilt SubclassOf symptom abnormality is a wilt
+symptom abnormality SubclassOf symptom abnormality has abnormality
+brown planthopper SubclassOf insect is a brown planthopper
+green rice leafhopper SubclassOf insect is a green rice leafhopper
+insect as a carrier SubclassOf insect is a insect as a carrier
+rice black bug SubclassOf insect is a rice black bug
+zigzag leafhopper SubclassOf insect is a zigzag leafhopper
+insect SubclassOf insect has pest
+brown planthopper damage SubclassOf insect damage is a brown planthopper damage
+green rice leafhopper damage SubclassOf insect damage is a green rice leafhopper damage
+rice black bug damage SubclassOf insect damage is a rice black bug damage
+zigzag leafhopper damage SubclassOf insect damage is a zigzag leafhopper damage
+insect damage SubclassOf insect damage has pest damage
+base leaf SubclassOf leaf is a base leaf
+boundary leaf SubclassOf leaf is a boundary leaf
+entire leaf SubclassOf leaf is a entire leaf
+first leaf SubclassOf leaf is a first leaf
+flag leaf SubclassOf leaf is a flag leaf
+sheath leaf SubclassOf leaf is a sheath leaf
+tip leaf SubclassOf leaf is a tip leaf
+under side leaf SubclassOf leaf is a under side leaf
+vein leaf SubclassOf leaf is a vein leaf
+leaf SubclassOf leaf equivalent to PO_0025034
+leaf SubclassOf leaf has plant abnormality part
+neck SubclassOf neck has plant abnormality part
+node SubclassOf node equivalent to PO_0005004
+node SubclassOf node has plant abnormality part
+panicle SubclassOf panicle equivalent to PO_0030123
+panicle SubclassOf panicle has plant abnormality part
+root SubclassOf root equivalent to PO_0009005
+root SubclassOf root has plant abnormality part
+seedling SubclassOf seedling equivalent to PO_0025287
+seedling SubclassOf seedling has plant abnormality part
+spikelet SubclassOf spikelet equivalent to PO_0009051
+spikelet SubclassOf spikelet has plant abnormality part
+lower portion SubclassOf stem is a lower portion
+stem SubclassOf stem equivalent to PO_0009047
+stem SubclassOf stem has plant abnormality part
+tiller SubclassOf tiller has plant abnormality part
+transmissible rice disease SubclassOf transmissible rice disease equivalent to RiceDO-Version2.RiceDO_000006 & RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+transmissible rice disease SubclassOf transmissible rice disease has Thing
+flowering SubclassOf flowering has rice growth stage
+maturity SubclassOf maturity has rice growth stage
+panicle initiation SubclassOf panicle initiation has rice growth stage
+tillering SubclassOf tillering has rice growth stage
+transplanting SubclassOf transplanting has rice growth stage
+flowering to maturity SubclassOf flowering to maturity equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000028)
+flowering to maturity SubclassOf flowering to maturity has rice growth stage group
+tillering to maturity SubclassOf tillering to maturity equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000028) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030)
+tillering to maturity SubclassOf tillering to maturity has rice growth stage group
+transplanting to flowering SubclassOf transplanting to flowering equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)
+transplanting to flowering SubclassOf transplanting to flowering has rice growth stage group
+transplanting to maturity SubclassOf transplanting to maturity equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000028) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)
+transplanting to maturity SubclassOf transplanting to maturity has rice growth stage group
+transplanting to panicle intiation SubclassOf transplanting to panicle intiation equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)
+transplanting to panicle intiation SubclassOf transplanting to panicle intiation has rice growth stage group
+transplanting to tillering SubclassOf transplanting to tillering equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)
+transplanting to tillering SubclassOf transplanting to tillering has rice growth stage group
+dry on leaf SubclassOf dry on leaf equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+dry on leaf SubclassOf dry on leaf has symptom characteristic
+lesion on leaf SubclassOf lesion on leaf equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+lesion on leaf SubclassOf lesion on leaf has symptom characteristic
+lesion on neck SubclassOf lesion on neck equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000017)
+lesion on neck SubclassOf lesion on neck has symptom characteristic
+lesion on sheath SubclassOf lesion on sheath equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135)
+lesion on sheath SubclassOf lesion on sheath has symptom characteristic
+linear lesion on leaf SubclassOf linear lesion on leaf equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000089) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+linear lesion on leaf SubclassOf linear lesion on leaf has symptom characteristic
+linear lesion on sheath SubclassOf linear lesion on sheath equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000089) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135)
+linear lesion on sheath SubclassOf linear lesion on sheath has symptom characteristic
+pimple on leaf SubclassOf pimple on leaf equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000104) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+pimple on leaf SubclassOf pimple on leaf has symptom characteristic
+spore ball SubclassOf spore ball equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000084) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000110)
+spore ball SubclassOf spore ball has symptom characteristic
+circular spot on leaf SubclassOf spot on leaf is a circular spot on leaf
+ellipsoid spot on leaf SubclassOf spot on leaf is a ellipsoid spot on leaf
+spot on leaf SubclassOf spot on leaf equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+spot on leaf SubclassOf spot on leaf has symptom characteristic
+circular spot on leaf SubclassOf circular spot on leaf equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000085) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111)
+circular spot on leaf SubclassOf circular spot on leaf has spot on leaf
+ellipsoid spot on leaf SubclassOf ellipsoid spot on leaf equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000086) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111)
+ellipsoid spot on leaf SubclassOf ellipsoid spot on leaf has spot on leaf
+spot on panicle SubclassOf spot on panicle equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)
+spot on panicle SubclassOf spot on panicle has symptom characteristic
+spot on sheath SubclassOf spot on sheath equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135)
+spot on sheath SubclassOf spot on sheath has symptom characteristic
+non transmissible SubclassOf non transmissible has transmission
+transmissible SubclassOf transmissible has transmission
+greenish black SubclassOf black is a greenish black
+black SubclassOf black equivalent to PATO_0000317
+black SubclassOf black has color abnormality
+greenish black SubclassOf greenish black has black
+blackish brown SubclassOf brown is a blackish brown
+dark brown SubclassOf brown is a dark brown
+grayish brown SubclassOf brown is a grayish brown
+light brown SubclassOf brown is a light brown
+red brown SubclassOf brown is a red brown
+reddish brown SubclassOf brown is a reddish brown
+yellow brown SubclassOf brown is a yellow brown
+brown SubclassOf brown equivalent to PATO_0000952
+brown SubclassOf brown has color abnormality
+blackish brown SubclassOf blackish brown has brown
+dark brown SubclassOf dark brown equivalent to PATO_0001245
+dark brown SubclassOf dark brown has brown
+grayish brown SubclassOf grayish brown has brown
+light brown SubclassOf light brown has brown
+red brown SubclassOf red brown has brown
+red brown SubclassOf red brown has red
+reddish brown SubclassOf reddish brown equivalent to PATO_0001287
+reddish brown SubclassOf reddish brown has brown
+yellow brown SubclassOf yellow brown equivalent to PATO_0002411
+yellow brown SubclassOf yellow brown has brown
+brownish gray SubclassOf gray is a brownish gray
+gray white SubclassOf gray is a gray white
+pinkish gray SubclassOf gray is a pinkish gray
+gray SubclassOf gray equivalent to PATO_0000950
+gray SubclassOf gray has color abnormality
+brownish gray SubclassOf brownish gray has gray
+gray white SubclassOf gray white has gray
+gray white SubclassOf gray white has white
+pinkish gray SubclassOf pinkish gray has gray
+dark green SubclassOf green is a dark green
+grayish green SubclassOf green is a grayish green
+pale green SubclassOf green is a pale green
+yellowish green SubclassOf green is a yellowish green
+green SubclassOf green equivalent to PATO_0000320
+green SubclassOf green has color abnormality
+dark green SubclassOf dark green equivalent to PATO_0001249
+dark green SubclassOf dark green has green
+grayish green SubclassOf grayish green has green
+pale green SubclassOf pale green has green
+yellowish green SubclassOf yellowish green has green
+orange SubclassOf orange equivalent to PATO_0000953
+orange SubclassOf orange has color abnormality
+purple SubclassOf purple equivalent to PATO_0000951
+purple SubclassOf purple has color abnormality
+red brown SubclassOf red is a red brown
+dark reddish SubclassOf red is a dark reddish
+red SubclassOf red equivalent to PATO_0000322
+red SubclassOf red has color abnormality
+dark reddish SubclassOf dark reddish equivalent to PATO_0001261
+dark reddish SubclassOf dark reddish has red
+gray white SubclassOf white is a gray white
+pinkish white SubclassOf white is a pinkish white
+white SubclassOf white has color abnormality
+pinkish white SubclassOf pinkish white has white
+brownish yellow SubclassOf yellow is a brownish yellow
+light yellow SubclassOf yellow is a light yellow
+yellow SubclassOf yellow equivalent to PATO_0000324
+yellow SubclassOf yellow has color abnormality
+brownish yellow SubclassOf brownish yellow has yellow
+light yellow SubclassOf light yellow equivalent to PATO_0001264
+light yellow SubclassOf light yellow has yellow
+spiral SubclassOf shape of plant part abnormality is a spiral
+shape of plant part abnormality SubclassOf shape of plant part abnormality has shape abnormality
+spiral SubclassOf spiral equivalent to PATO_0000404
+spiral SubclassOf spiral has shape of plant part abnormality
+ball SubclassOf shape of symptom abnormality is a ball
+circular SubclassOf shape of symptom abnormality is a circular
+ellipsoid SubclassOf shape of symptom abnormality is a ellipsoid
+eye SubclassOf shape of symptom abnormality is a eye
+halo SubclassOf shape of symptom abnormality is a halo
+linear SubclassOf shape of symptom abnormality is a linear
+netlike SubclassOf shape of symptom abnormality is a netlike
+oval SubclassOf shape of symptom abnormality is a oval
+shape of symptom abnormality SubclassOf shape of symptom abnormality has shape abnormality
+ball SubclassOf ball equivalent to PATO_0001499
+ball SubclassOf ball has shape of symptom abnormality
+circular SubclassOf circular equivalent to PATO_0000411
+circular SubclassOf circular has shape of symptom abnormality
+ellipsoid SubclassOf ellipsoid equivalent to PATO_0000947
+ellipsoid SubclassOf ellipsoid has shape of symptom abnormality
+eye SubclassOf eye has shape of symptom abnormality
+halo SubclassOf halo has shape of symptom abnormality
+linear SubclassOf linear equivalent to PATO_0001199
+linear SubclassOf linear has shape of symptom abnormality
+netlike SubclassOf netlike has shape of symptom abnormality
+oval SubclassOf oval equivalent to PATO_0001891
+oval SubclassOf oval has shape of symptom abnormality
+break SubclassOf break has symptom abnormality
+burn SubclassOf burn has symptom abnormality
+curl SubclassOf curl has symptom abnormality
+death SubclassOf death has symptom abnormality
+discoloration SubclassOf discoloration has symptom abnormality
+dry SubclassOf dry has symptom abnormality
+excessive SubclassOf excessive has symptom abnormality
+fall SubclassOf fall has symptom abnormality
+grassy SubclassOf grassy has symptom abnormality
+lesion SubclassOf lesion has symptom abnormality
+malform SubclassOf malform has symptom abnormality
+narrow SubclassOf narrow has symptom abnormality
+pimple SubclassOf pimple has symptom abnormality
+powdery SubclassOf powdery has symptom abnormality
+reduce SubclassOf reduce has symptom abnormality
+root growing SubclassOf root growing has symptom abnormality
+rot SubclassOf rot has symptom abnormality
+short SubclassOf short has symptom abnormality
+spore SubclassOf spore has symptom abnormality
+spot SubclassOf spot has symptom abnormality
+stunt SubclassOf stunt has symptom abnormality
+swell SubclassOf swell has symptom abnormality
+tall SubclassOf tall has symptom abnormality
+thin SubclassOf thin has symptom abnormality
+transparent SubclassOf transparent has symptom abnormality
+twist SubclassOf twist has symptom abnormality
+unfill SubclassOf unfill has symptom abnormality
+weak SubclassOf weak has symptom abnormality
+wilt SubclassOf wilt has symptom abnormality
+brown planthopper SubclassOf brown planthopper has insect
+brown planthopper SubclassOf brown planthopper has hasDamage some brown planthopper damage
+brown planthopper SubclassOf brown planthopper has isCarrierOf some rice rugged stunt viral disease
+green rice leafhopper SubclassOf green rice leafhopper has insect
+green rice leafhopper SubclassOf green rice leafhopper has hasDamage some green rice leafhopper damage
+green rice leafhopper SubclassOf green rice leafhopper has isCarrierOf some rice tungro viral disease
+insect as a carrier SubclassOf insect as a carrier equivalent to RiceDO-Version2.RiceDO_000014 & RiceDO-Version2.RiceDO_000158.some(obo.PDO_0000007)
+insect as a carrier SubclassOf insect as a carrier has insect
+rice black bug SubclassOf rice black bug has insect
+rice black bug SubclassOf rice black bug has hasDamage some rice black bug damage
+zigzag leafhopper SubclassOf zigzag leafhopper has insect
+zigzag leafhopper SubclassOf zigzag leafhopper has hasDamage some zigzag leafhopper damage
+zigzag leafhopper SubclassOf zigzag leafhopper has isCarrierOf some rice tungro viral disease
+zigzag leafhopper SubclassOf zigzag leafhopper has isCarrierOf some rice gall dwarf virus disease
+brown planthopper damage SubclassOf brown planthopper damage equivalent to CO_320:0000196
+brown planthopper damage SubclassOf brown planthopper damage has insect damage
+brown planthopper damage SubclassOf brown planthopper damage has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093 & RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+brown planthopper damage SubclassOf brown planthopper damage has isDamageOf some brown planthopper
+green rice leafhopper damage SubclassOf green rice leafhopper damage equivalent to CO_320:0000200
+green rice leafhopper damage SubclassOf green rice leafhopper damage has insect damage
+green rice leafhopper damage SubclassOf green rice leafhopper damage has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+green rice leafhopper damage SubclassOf green rice leafhopper damage has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)
+green rice leafhopper damage SubclassOf green rice leafhopper damage has isDamageOf some green rice leafhopper
+rice black bug damage SubclassOf rice black bug damage has insect damage
+rice black bug damage SubclassOf rice black bug damage has abnormalityGroup some RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000061 & RiceDO-Version2.RiceDO_000078)
+rice black bug damage SubclassOf rice black bug damage has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000056) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000131)
+rice black bug damage SubclassOf rice black bug damage has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078 & RiceDO-Version2.RiceDO_000079) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice black bug damage SubclassOf rice black bug damage has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)
+rice black bug damage SubclassOf rice black bug damage has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000118) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022)
+rice black bug damage SubclassOf rice black bug damage has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)
+rice black bug damage SubclassOf rice black bug damage has isDamageOf some rice black bug
+zigzag leafhopper damage SubclassOf zigzag leafhopper damage has insect damage
+zigzag leafhopper damage SubclassOf zigzag leafhopper damage has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000072) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000094) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016 & RiceDO-Version2.RiceDO_000131)
+zigzag leafhopper damage SubclassOf zigzag leafhopper damage has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000140)
+zigzag leafhopper damage SubclassOf zigzag leafhopper damage has isDamageOf some zigzag leafhopper
+base leaf SubclassOf base leaf equivalent to PO_0020040
+base leaf SubclassOf base leaf has leaf
+boundary leaf SubclassOf boundary leaf has leaf
+entire leaf SubclassOf entire leaf has leaf
+first leaf SubclassOf first leaf has leaf
+flag leaf SubclassOf flag leaf equivalent to PO_0020103
+flag leaf SubclassOf flag leaf has leaf
+boundary sheath leaf SubclassOf sheath leaf is a boundary sheath leaf
+center sheath leaf SubclassOf sheath leaf is a center sheath leaf
+upper sheath leaf SubclassOf sheath leaf is a upper sheath leaf
+vein sheath leaf SubclassOf sheath leaf is a vein sheath leaf
+sheath leaf SubclassOf sheath leaf equivalent to PO_0020104
+sheath leaf SubclassOf sheath leaf has leaf
+boundary sheath leaf SubclassOf boundary sheath leaf equivalent to PO_0025619
+boundary sheath leaf SubclassOf boundary sheath leaf has sheath leaf
+center sheath leaf SubclassOf center sheath leaf has sheath leaf
+upper sheath leaf SubclassOf upper sheath leaf has sheath leaf
+vein sheath leaf SubclassOf vein sheath leaf has sheath leaf
+tip leaf SubclassOf tip leaf equivalent to PO_0025142
+tip leaf SubclassOf tip leaf has leaf
+under side leaf SubclassOf under side leaf has leaf
+vein leaf SubclassOf vein leaf has leaf
+lower portion SubclassOf lower portion has stem
+rice orange leaf phytoplasma disease SubclassOf rice orange leaf phytoplasma disease has rice phytoplasma disease
+rice orange leaf phytoplasma disease SubclassOf rice orange leaf phytoplasma disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000072) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000132 & RiceDO-Version2.RiceDO_000133 & RiceDO-Version2.RiceDO_000140)
+rice orange leaf phytoplasma disease SubclassOf rice orange leaf phytoplasma disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)
+rice orange leaf phytoplasma disease SubclassOf rice orange leaf phytoplasma disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)
+rice orange leaf phytoplasma disease SubclassOf rice orange leaf phytoplasma disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000094 & RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+rice orange leaf phytoplasma disease SubclassOf rice orange leaf phytoplasma disease has hasTransmission some transmissible
+rice dirty panicle fungal disease SubclassOf rice dirty panicle fungal disease has rice fungal disease
+rice dirty panicle fungal disease SubclassOf rice dirty panicle fungal disease has abnormalityGroup some RiceDO-Version2.RiceDO_000049 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053 & RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000066)
+rice dirty panicle fungal disease SubclassOf rice dirty panicle fungal disease has hasTransmission some transmissible
+rice gall dwarf virus disease SubclassOf rice gall dwarf virus disease has rice viral disease
+rice gall dwarf virus disease SubclassOf rice gall dwarf virus disease has abnormalityGroup some transplanting to panicle intiation
+rice gall dwarf virus disease SubclassOf rice gall dwarf virus disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000068) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000109) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+rice gall dwarf virus disease SubclassOf rice gall dwarf virus disease has abnormalityGroup some RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070 & RiceDO-Version2.RiceDO_000076) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000104) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135 & RiceDO-Version2.RiceDO_000141)
+rice gall dwarf virus disease SubclassOf rice gall dwarf virus disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024)
+rice gall dwarf virus disease SubclassOf rice gall dwarf virus disease has abnormalityGroup some RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000113) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000142)
+rice gall dwarf virus disease SubclassOf rice gall dwarf virus disease has hasCarrier some zigzag leafhopper
+rice gall dwarf virus disease SubclassOf rice gall dwarf virus disease has hasTransmission some transmissible

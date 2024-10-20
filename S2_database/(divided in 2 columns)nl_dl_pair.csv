@@ -1,0 +1,501 @@
+Axiom Name,Manchester Syntax Axioms
+rice bacterial blight disease,rice bacterial disease is a PDO_0000014
+rice bacterial leaf streak disease,rice bacterial disease is a PDO_0000019
+rice bacterial disease,rice bacterial disease has RiceDO-Version2.RiceDO_000006
+rice grassy stunt viral disease,rice viral disease is a PDO_0000123
+rice rugged stunt viral disease,rice viral disease is a PDO_0000126
+rice tungro viral disease,rice viral disease is a PDO_0000131
+rice gall dwarf virus disease,rice viral disease is a RiceDO_000146
+rice viral disease,rice viral disease has RiceDO-Version2.RiceDO_000006
+rice bacterial blight disease,rice bacterial blight disease has obo.PDO_0000003
+rice bacterial blight disease,rice bacterial blight disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000062)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000069)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000038 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000044 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000044 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+rice bacterial blight disease,rice bacterial blight disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice bacterial leaf streak disease,rice bacterial leaf streak disease has obo.PDO_0000003
+rice bacterial leaf streak disease,rice bacterial leaf streak disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000072)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000116)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000044 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078))
+rice bacterial leaf streak disease,rice bacterial leaf streak disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice blast fungal disease,rice blast fungal disease has obo.PDO_0000081
+rice blast fungal disease,rice blast fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000040 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000040 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000058) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000087)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000087)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000063) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000087)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053 & RiceDO-Version2.RiceDO_000058) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000018)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000099) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000021)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000092) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000018))
+rice blast fungal disease,rice blast fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice brown spot fungal disease,rice brown spot fungal disease has obo.PDO_0000081
+rice brown spot fungal disease,rice brown spot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000035)
+rice brown spot fungal disease,rice brown spot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000088))
+rice brown spot fungal disease,rice brown spot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000063) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000085 & RiceDO-Version2.RiceDO_000091))
+rice brown spot fungal disease,rice brown spot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000079) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031))
+rice brown spot fungal disease,rice brown spot fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice false smut fungal disease,rice false smut fungal disease has obo.PDO_0000081
+rice false smut fungal disease,rice false smut fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000032)
+rice false smut fungal disease,rice false smut fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000045 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053 & RiceDO-Version2.RiceDO_000054 & RiceDO-Version2.RiceDO_000071 & RiceDO-Version2.RiceDO_000072 & RiceDO-Version2.RiceDO_000073 & RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022))
+rice false smut fungal disease,rice false smut fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice leaf scald fungal disease,rice leaf scald fungal disease has obo.PDO_0000081
+rice leaf scald fungal disease,rice leaf scald fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000037) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000039 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000058) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000086 & RiceDO-Version2.RiceDO_000091)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000039 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000059) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000088)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000131 & RiceDO-Version2.RiceDO_000140))
+rice leaf scald fungal disease,rice leaf scald fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice narrow brown leaf spot fungal disease,rice narrow brown leaf spot fungal disease has obo.PDO_0000081
+rice narrow brown leaf spot fungal disease,rice narrow brown leaf spot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000033) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000042 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000043 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000059)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000059 & RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000090) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135))
+rice narrow brown leaf spot fungal disease,rice narrow brown leaf spot fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice sheath blight fungal disease,rice sheath blight fungal disease has obo.PDO_0000081
+rice sheath blight fungal disease,rice sheath blight fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000033) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000039 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000065)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000069)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000086 & RiceDO-Version2.RiceDO_000091)) & RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097 & RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016 & RiceDO-Version2.RiceDO_000135))
+rice sheath blight fungal disease,rice sheath blight fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice sheath rot fungal disease,rice sheath rot fungal disease has obo.PDO_0000081
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000056))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000050 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000064 & RiceDO-Version2.RiceDO_000075))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000115) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000136))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000076) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000105) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000056) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000060) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000063 & RiceDO-Version2.RiceDO_000077) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000137))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000108) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000108) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135 & RiceDO-Version2.RiceDO_000138))
+rice sheath rot fungal disease,rice sheath rot fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice stem rot fungal disease,rice stem rot fungal disease has obo.PDO_0000081
+rice stem rot fungal disease,rice stem rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000032)
+rice stem rot fungal disease,rice stem rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000050 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055))
+rice stem rot fungal disease,rice stem rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000057) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice stem rot fungal disease,rice stem rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000108) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023 & RiceDO-Version2.RiceDO_000135))
+rice stem rot fungal disease,rice stem rot fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095 & RiceDO-Version2.RiceDO_000119) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice stem rot fungal disease,rice stem rot fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice blast fungal disease,rice fungal disease is a PDO_0000031
+rice brown spot fungal disease,rice fungal disease is a PDO_0000033
+rice false smut fungal disease,rice fungal disease is a PDO_0000041
+rice leaf scald fungal disease,rice fungal disease is a PDO_0000047
+rice narrow brown leaf spot fungal disease,rice fungal disease is a PDO_0000049
+rice sheath blight fungal disease,rice fungal disease is a PDO_0000051
+rice sheath rot fungal disease,rice fungal disease is a PDO_0000053
+rice stem rot fungal disease,rice fungal disease is a PDO_0000059
+rice bakanae fungal disease,rice fungal disease is a PDO_0000168
+rice dirty panicle fungal disease,rice fungal disease is a RiceDO_000145
+rice fungal disease,rice fungal disease has RiceDO-Version2.RiceDO_000006
+rice grassy stunt viral disease,rice grassy stunt viral disease has obo.PDO_0000007
+rice grassy stunt viral disease,rice grassy stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000036)
+rice grassy stunt viral disease,rice grassy stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000068 & RiceDO-Version2.RiceDO_000071 & RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000103 & RiceDO-Version2.RiceDO_000109) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+rice grassy stunt viral disease,rice grassy stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000098) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024))
+rice grassy stunt viral disease,rice grassy stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000100 & RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice grassy stunt viral disease,rice grassy stunt viral disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice rugged stunt viral disease,rice rugged stunt viral disease has obo.PDO_0000007
+rice rugged stunt viral disease,rice rugged stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000036)
+rice rugged stunt viral disease,rice rugged stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000082) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000117) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000130))
+rice rugged stunt viral disease,rice rugged stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057 & RiceDO-Version2.RiceDO_000076 & RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000113) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000139 & RiceDO-Version2.RiceDO_000142))
+rice rugged stunt viral disease,rice rugged stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000102 & RiceDO-Version2.RiceDO_000117) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000134))
+rice rugged stunt viral disease,rice rugged stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000104) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135 & RiceDO-Version2.RiceDO_000141))
+rice rugged stunt viral disease,rice rugged stunt viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice rugged stunt viral disease,rice rugged stunt viral disease has RiceDO-Version2.RiceDO_000148.some(RiceDO-Version2.RiceDO_000121)
+rice rugged stunt viral disease,rice rugged stunt viral disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice yellow dwarf phytoplasma disease,rice yellow dwarf phytoplasma disease has obo.PDO_0000170
+rice yellow dwarf phytoplasma disease,rice yellow dwarf phytoplasma disease has RiceDO-Version2.RiceDO_000147.some((RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023)) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095))
+rice yellow dwarf phytoplasma disease,rice yellow dwarf phytoplasma disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000080) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+rice yellow dwarf phytoplasma disease,rice yellow dwarf phytoplasma disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000098) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024))
+rice yellow dwarf phytoplasma disease,rice yellow dwarf phytoplasma disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000109) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice yellow dwarf phytoplasma disease,rice yellow dwarf phytoplasma disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice yellow dwarf phytoplasma disease,rice yellow dwarf phytoplasma disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice tungro viral disease,rice tungro viral disease has obo.PDO_0000007
+rice tungro viral disease,rice tungro viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034)
+rice tungro viral disease,rice tungro viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000046 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000078))
+rice tungro viral disease,rice tungro viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000057) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022))
+rice tungro viral disease,rice tungro viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000118) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022))
+rice tungro viral disease,rice tungro viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095 & RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024))
+rice tungro viral disease,rice tungro viral disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000109 & RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice tungro viral disease,rice tungro viral disease has RiceDO-Version2.RiceDO_000148.some(RiceDO-Version2.RiceDO_000122)
+rice tungro viral disease,rice tungro viral disease has RiceDO-Version2.RiceDO_000148.some(RiceDO-Version2.RiceDO_000125)
+rice bakanae fungal disease,rice bakanae fungal disease has obo.PDO_0000081
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000034)
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000114 & RiceDO-Version2.RiceDO_000115) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000076) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000105) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000143))
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070 & RiceDO-Version2.RiceDO_000071) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000115) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000020))
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000021))
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024))
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000107) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000143))
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000118) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022))
+rice bakanae fungal disease,rice bakanae fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice yellow dwarf phytoplasma disease,rice phytoplasma disease is a PDO_0000129
+rice orange leaf phytoplasma disease,rice phytoplasma disease is a RiceDO_000144
+rice phytoplasma disease,rice phytoplasma disease has RiceDO-Version2.RiceDO_000006
+abnormality,RiceDO Top is a RiceDO_000002
+pest,RiceDO Top is a RiceDO_000003
+pest damage,RiceDO Top is a RiceDO_000004
+plant abnormality part,RiceDO Top is a RiceDO_000005
+rice disease,RiceDO Top is a RiceDO_000006
+rice growth stage,RiceDO Top is a RiceDO_000007
+rice growth stage group,RiceDO Top is a RiceDO_000008
+symptom characteristic,RiceDO Top is a RiceDO_000009
+transmission,RiceDO Top is a RiceDO_000010
+RiceDO Top,RiceDO Top has owl.Thing
+color abnormality,abnormality is a RiceDO_000011
+shape abnormality,abnormality is a RiceDO_000012
+symptom abnormality,abnormality is a RiceDO_000013
+abnormality,abnormality has RiceDO-Version2.RiceDO_000001
+insect,pest is a RiceDO_000014
+pest,pest has RiceDO-Version2.RiceDO_000001
+insect damage,pest damage is a RiceDO_000015
+pest damage,pest damage has RiceDO-Version2.RiceDO_000001
+leaf,plant abnormality part is a RiceDO_000016
+neck,plant abnormality part is a RiceDO_000017
+node,plant abnormality part is a RiceDO_000018
+panicle,plant abnormality part is a RiceDO_000019
+root,plant abnormality part is a RiceDO_000020
+seedling,plant abnormality part is a RiceDO_000021
+spikelet,plant abnormality part is a RiceDO_000022
+stem,plant abnormality part is a RiceDO_000023
+tiller,plant abnormality part is a RiceDO_000024
+plant abnormality part,plant abnormality part has RiceDO-Version2.RiceDO_000001
+rice bacterial disease,rice disease is a PDO_0000003
+rice viral disease,rice disease is a PDO_0000007
+rice fungal disease,rice disease is a PDO_0000081
+rice phytoplasma disease,rice disease is a PDO_0000170
+rice disease,rice disease has RiceDO-Version2.RiceDO_000001
+rice disease,rice disease has obo.PDO_0000001
+flowering,rice growth stage is a RiceDO_000027
+maturity,rice growth stage is a RiceDO_000028
+panicle initiation,rice growth stage is a RiceDO_000029
+tillering,rice growth stage is a RiceDO_000030
+transplanting,rice growth stage is a RiceDO_000031
+rice growth stage,rice growth stage has RiceDO-Version2.RiceDO_000001
+flowering to maturity,rice growth stage group is a RiceDO_000032
+tillering to maturity,rice growth stage group is a RiceDO_000033
+transplanting to flowering,rice growth stage group is a RiceDO_000034
+transplanting to maturity,rice growth stage group is a RiceDO_000035
+transplanting to panicle intiation,rice growth stage group is a RiceDO_000036
+transplanting to tillering,rice growth stage group is a RiceDO_000037
+rice growth stage group,rice growth stage group equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000007)
+rice growth stage group,rice growth stage group has RiceDO-Version2.RiceDO_000001
+dry on leaf,symptom characteristic is a RiceDO_000038
+lesion on leaf,symptom characteristic is a RiceDO_000039
+lesion on neck,symptom characteristic is a RiceDO_000040
+lesion on sheath,symptom characteristic is a RiceDO_000041
+linear lesion on leaf,symptom characteristic is a RiceDO_000042
+linear lesion on sheath,symptom characteristic is a RiceDO_000043
+pimple on leaf,symptom characteristic is a RiceDO_000044
+spore ball,symptom characteristic is a RiceDO_000045
+spot on leaf,symptom characteristic is a RiceDO_000046
+spot on panicle,symptom characteristic is a RiceDO_000049
+spot on sheath,symptom characteristic is a RiceDO_000050
+symptom characteristic,symptom characteristic equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000002)
+symptom characteristic,symptom characteristic has RiceDO-Version2.RiceDO_000001
+non transmissible,transmission is a RiceDO_000051
+transmissible,transmission is a RiceDO_000052
+transmission,transmission has RiceDO-Version2.RiceDO_000001
+black,color abnormality is a RiceDO_000053
+brown,color abnormality is a RiceDO_000055
+gray,color abnormality is a RiceDO_000063
+green,color abnormality is a RiceDO_000067
+orange,color abnormality is a RiceDO_000072
+purple,color abnormality is a RiceDO_000073
+red,color abnormality is a RiceDO_000074
+white,color abnormality is a RiceDO_000076
+yellow,color abnormality is a RiceDO_000078
+color abnormality,color abnormality has RiceDO-Version2.RiceDO_000002
+shape of plant part abnormality,shape abnormality is a RiceDO_000081
+shape of symptom abnormality,shape abnormality is a RiceDO_000083
+shape abnormality,shape abnormality has RiceDO-Version2.RiceDO_000002
+break,symptom abnormality is a RiceDO_000092
+burn,symptom abnormality is a RiceDO_000093
+curl,symptom abnormality is a RiceDO_000094
+death,symptom abnormality is a RiceDO_000095
+discoloration,symptom abnormality is a RiceDO_000096
+dry,symptom abnormality is a RiceDO_000097
+excessive,symptom abnormality is a RiceDO_000098
+fall,symptom abnormality is a RiceDO_000099
+grassy,symptom abnormality is a RiceDO_000100
+lesion,symptom abnormality is a RiceDO_000101
+malform,symptom abnormality is a RiceDO_000102
+narrow,symptom abnormality is a RiceDO_000103
+pimple,symptom abnormality is a RiceDO_000104
+powdery,symptom abnormality is a RiceDO_000105
+reduce,symptom abnormality is a RiceDO_000106
+root growing,symptom abnormality is a RiceDO_000107
+rot,symptom abnormality is a RiceDO_000108
+short,symptom abnormality is a RiceDO_000109
+spore,symptom abnormality is a RiceDO_000110
+spot,symptom abnormality is a RiceDO_000111
+stunt,symptom abnormality is a RiceDO_000112
+swell,symptom abnormality is a RiceDO_000113
+tall,symptom abnormality is a RiceDO_000114
+thin,symptom abnormality is a RiceDO_000115
+transparent,symptom abnormality is a RiceDO_000116
+twist,symptom abnormality is a RiceDO_000117
+unfill,symptom abnormality is a RiceDO_000118
+weak,symptom abnormality is a RiceDO_000119
+wilt,symptom abnormality is a RiceDO_000120
+symptom abnormality,symptom abnormality has RiceDO-Version2.RiceDO_000002
+brown planthopper,insect is a RiceDO_000121
+green rice leafhopper,insect is a RiceDO_000122
+insect as a carrier,insect is a RiceDO_000123
+rice black bug,insect is a RiceDO_000124
+zigzag leafhopper,insect is a RiceDO_000125
+insect,insect has RiceDO-Version2.RiceDO_000003
+brown planthopper damage,insect damage is a RiceDO_000126
+green rice leafhopper damage,insect damage is a RiceDO_000127
+rice black bug damage,insect damage is a RiceDO_000128
+zigzag leafhopper damage,insect damage is a RiceDO_000129
+insect damage,insect damage has RiceDO-Version2.RiceDO_000004
+base leaf,leaf is a RiceDO_000130
+boundary leaf,leaf is a RiceDO_000131
+entire leaf,leaf is a RiceDO_000132
+first leaf,leaf is a RiceDO_000133
+flag leaf,leaf is a RiceDO_000134
+sheath leaf,leaf is a RiceDO_000135
+tip leaf,leaf is a RiceDO_000140
+under side leaf,leaf is a RiceDO_000141
+vein leaf,leaf is a RiceDO_000142
+leaf,leaf equivalent to obo.PO_0025034
+leaf,leaf has RiceDO-Version2.RiceDO_000005
+neck,neck has RiceDO-Version2.RiceDO_000005
+node,node equivalent to obo.PO_0005004
+node,node has RiceDO-Version2.RiceDO_000005
+panicle,panicle equivalent to obo.PO_0030123
+panicle,panicle has RiceDO-Version2.RiceDO_000005
+root,root equivalent to obo.PO_0009005
+root,root has RiceDO-Version2.RiceDO_000005
+seedling,seedling equivalent to obo.PO_0025287
+seedling,seedling has RiceDO-Version2.RiceDO_000005
+spikelet,spikelet equivalent to obo.PO_0009051
+spikelet,spikelet has RiceDO-Version2.RiceDO_000005
+lower portion,stem is a RiceDO_000143
+stem,stem equivalent to obo.PO_0009047
+stem,stem has RiceDO-Version2.RiceDO_000005
+tiller,tiller has RiceDO-Version2.RiceDO_000005
+transmissible rice disease,transmissible rice disease equivalent to RiceDO-Version2.RiceDO_000006 & RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+transmissible rice disease,transmissible rice disease has owl.Thing
+flowering,flowering has RiceDO-Version2.RiceDO_000007
+maturity,maturity has RiceDO-Version2.RiceDO_000007
+panicle initiation,panicle initiation has RiceDO-Version2.RiceDO_000007
+tillering,tillering has RiceDO-Version2.RiceDO_000007
+transplanting,transplanting has RiceDO-Version2.RiceDO_000007
+flowering to maturity,flowering to maturity equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000028)
+flowering to maturity,flowering to maturity has RiceDO-Version2.RiceDO_000008
+tillering to maturity,tillering to maturity equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000028) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030)
+tillering to maturity,tillering to maturity has RiceDO-Version2.RiceDO_000008
+transplanting to flowering,transplanting to flowering equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)
+transplanting to flowering,transplanting to flowering has RiceDO-Version2.RiceDO_000008
+transplanting to maturity,transplanting to maturity equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000027) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000028) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)
+transplanting to maturity,transplanting to maturity has RiceDO-Version2.RiceDO_000008
+transplanting to panicle intiation,transplanting to panicle intiation equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000029) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)
+transplanting to panicle intiation,transplanting to panicle intiation has RiceDO-Version2.RiceDO_000008
+transplanting to tillering,transplanting to tillering equivalent to RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000030) & RiceDO-Version2.RiceDO_000151.some(RiceDO-Version2.RiceDO_000031)
+transplanting to tillering,transplanting to tillering has RiceDO-Version2.RiceDO_000008
+dry on leaf,dry on leaf equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+dry on leaf,dry on leaf has RiceDO-Version2.RiceDO_000009
+lesion on leaf,lesion on leaf equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+lesion on leaf,lesion on leaf has RiceDO-Version2.RiceDO_000009
+lesion on neck,lesion on neck equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000017)
+lesion on neck,lesion on neck has RiceDO-Version2.RiceDO_000009
+lesion on sheath,lesion on sheath equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135)
+lesion on sheath,lesion on sheath has RiceDO-Version2.RiceDO_000009
+linear lesion on leaf,linear lesion on leaf equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000089) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+linear lesion on leaf,linear lesion on leaf has RiceDO-Version2.RiceDO_000009
+linear lesion on sheath,linear lesion on sheath equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000089) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000101) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135)
+linear lesion on sheath,linear lesion on sheath has RiceDO-Version2.RiceDO_000009
+pimple on leaf,pimple on leaf equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000104) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+pimple on leaf,pimple on leaf has RiceDO-Version2.RiceDO_000009
+spore ball,spore ball equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000084) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000110)
+spore ball,spore ball has RiceDO-Version2.RiceDO_000009
+circular spot on leaf,spot on leaf is a RiceDO_000047
+ellipsoid spot on leaf,spot on leaf is a RiceDO_000048
+spot on leaf,spot on leaf equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016)
+spot on leaf,spot on leaf has RiceDO-Version2.RiceDO_000009
+circular spot on leaf,circular spot on leaf equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000085) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111)
+circular spot on leaf,circular spot on leaf has RiceDO-Version2.RiceDO_000046
+ellipsoid spot on leaf,ellipsoid spot on leaf equivalent to RiceDO-Version2.RiceDO_000152.some(RiceDO-Version2.RiceDO_000086) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111)
+ellipsoid spot on leaf,ellipsoid spot on leaf has RiceDO-Version2.RiceDO_000046
+spot on panicle,spot on panicle equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019)
+spot on panicle,spot on panicle has RiceDO-Version2.RiceDO_000009
+spot on sheath,spot on sheath equivalent to RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000111) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135)
+spot on sheath,spot on sheath has RiceDO-Version2.RiceDO_000009
+non transmissible,non transmissible has RiceDO-Version2.RiceDO_000010
+transmissible,transmissible has RiceDO-Version2.RiceDO_000010
+greenish black,black is a RiceDO_000054
+black,black equivalent to obo.PATO_0000317
+black,black has RiceDO-Version2.RiceDO_000011
+greenish black,greenish black has RiceDO-Version2.RiceDO_000053
+blackish brown,brown is a RiceDO_000056
+dark brown,brown is a RiceDO_000057
+grayish brown,brown is a RiceDO_000058
+light brown,brown is a RiceDO_000059
+red brown,brown is a RiceDO_000060
+reddish brown,brown is a RiceDO_000061
+yellow brown,brown is a RiceDO_000062
+brown,brown equivalent to obo.PATO_0000952
+brown,brown has RiceDO-Version2.RiceDO_000011
+blackish brown,blackish brown has RiceDO-Version2.RiceDO_000055
+dark brown,dark brown equivalent to obo.PATO_0001245
+dark brown,dark brown has RiceDO-Version2.RiceDO_000055
+grayish brown,grayish brown has RiceDO-Version2.RiceDO_000055
+light brown,light brown has RiceDO-Version2.RiceDO_000055
+red brown,red brown has RiceDO-Version2.RiceDO_000055
+red brown,red brown has RiceDO-Version2.RiceDO_000074
+reddish brown,reddish brown equivalent to obo.PATO_0001287
+reddish brown,reddish brown has RiceDO-Version2.RiceDO_000055
+yellow brown,yellow brown equivalent to obo.PATO_0002411
+yellow brown,yellow brown has RiceDO-Version2.RiceDO_000055
+brownish gray,gray is a RiceDO_000064
+gray white,gray is a RiceDO_000065
+pinkish gray,gray is a RiceDO_000066
+gray,gray equivalent to obo.PATO_0000950
+gray,gray has RiceDO-Version2.RiceDO_000011
+brownish gray,brownish gray has RiceDO-Version2.RiceDO_000063
+gray white,gray white has RiceDO-Version2.RiceDO_000063
+gray white,gray white has RiceDO-Version2.RiceDO_000076
+pinkish gray,pinkish gray has RiceDO-Version2.RiceDO_000063
+dark green,green is a RiceDO_000068
+grayish green,green is a RiceDO_000069
+pale green,green is a RiceDO_000070
+yellowish green,green is a RiceDO_000071
+green,green equivalent to obo.PATO_0000320
+green,green has RiceDO-Version2.RiceDO_000011
+dark green,dark green equivalent to obo.PATO_0001249
+dark green,dark green has RiceDO-Version2.RiceDO_000067
+grayish green,grayish green has RiceDO-Version2.RiceDO_000067
+pale green,pale green has RiceDO-Version2.RiceDO_000067
+yellowish green,yellowish green has RiceDO-Version2.RiceDO_000067
+orange,orange equivalent to obo.PATO_0000953
+orange,orange has RiceDO-Version2.RiceDO_000011
+purple,purple equivalent to obo.PATO_0000951
+purple,purple has RiceDO-Version2.RiceDO_000011
+red brown,red is a RiceDO_000060
+dark reddish,red is a RiceDO_000075
+red,red equivalent to obo.PATO_0000322
+red,red has RiceDO-Version2.RiceDO_000011
+dark reddish,dark reddish equivalent to obo.PATO_0001261
+dark reddish,dark reddish has RiceDO-Version2.RiceDO_000074
+gray white,white is a RiceDO_000065
+pinkish white,white is a RiceDO_000077
+white,white has RiceDO-Version2.RiceDO_000011
+pinkish white,pinkish white has RiceDO-Version2.RiceDO_000076
+brownish yellow,yellow is a RiceDO_000079
+light yellow,yellow is a RiceDO_000080
+yellow,yellow equivalent to obo.PATO_0000324
+yellow,yellow has RiceDO-Version2.RiceDO_000011
+brownish yellow,brownish yellow has RiceDO-Version2.RiceDO_000078
+light yellow,light yellow equivalent to obo.PATO_0001264
+light yellow,light yellow has RiceDO-Version2.RiceDO_000078
+spiral,shape of plant part abnormality is a RiceDO_000082
+shape of plant part abnormality,shape of plant part abnormality has RiceDO-Version2.RiceDO_000012
+spiral,spiral equivalent to obo.PATO_0000404
+spiral,spiral has RiceDO-Version2.RiceDO_000081
+ball,shape of symptom abnormality is a RiceDO_000084
+circular,shape of symptom abnormality is a RiceDO_000085
+ellipsoid,shape of symptom abnormality is a RiceDO_000086
+eye,shape of symptom abnormality is a RiceDO_000087
+halo,shape of symptom abnormality is a RiceDO_000088
+linear,shape of symptom abnormality is a RiceDO_000089
+netlike,shape of symptom abnormality is a RiceDO_000090
+oval,shape of symptom abnormality is a RiceDO_000091
+shape of symptom abnormality,shape of symptom abnormality has RiceDO-Version2.RiceDO_000012
+ball,ball equivalent to obo.PATO_0001499
+ball,ball has RiceDO-Version2.RiceDO_000083
+circular,circular equivalent to obo.PATO_0000411
+circular,circular has RiceDO-Version2.RiceDO_000083
+ellipsoid,ellipsoid equivalent to obo.PATO_0000947
+ellipsoid,ellipsoid has RiceDO-Version2.RiceDO_000083
+eye,eye has RiceDO-Version2.RiceDO_000083
+halo,halo has RiceDO-Version2.RiceDO_000083
+linear,linear equivalent to obo.PATO_0001199
+linear,linear has RiceDO-Version2.RiceDO_000083
+netlike,netlike has RiceDO-Version2.RiceDO_000083
+oval,oval equivalent to obo.PATO_0001891
+oval,oval has RiceDO-Version2.RiceDO_000083
+break,break has RiceDO-Version2.RiceDO_000013
+burn,burn has RiceDO-Version2.RiceDO_000013
+curl,curl has RiceDO-Version2.RiceDO_000013
+death,death has RiceDO-Version2.RiceDO_000013
+discoloration,discoloration has RiceDO-Version2.RiceDO_000013
+dry,dry has RiceDO-Version2.RiceDO_000013
+excessive,excessive has RiceDO-Version2.RiceDO_000013
+fall,fall has RiceDO-Version2.RiceDO_000013
+grassy,grassy has RiceDO-Version2.RiceDO_000013
+lesion,lesion has RiceDO-Version2.RiceDO_000013
+malform,malform has RiceDO-Version2.RiceDO_000013
+narrow,narrow has RiceDO-Version2.RiceDO_000013
+pimple,pimple has RiceDO-Version2.RiceDO_000013
+powdery,powdery has RiceDO-Version2.RiceDO_000013
+reduce,reduce has RiceDO-Version2.RiceDO_000013
+root growing,root growing has RiceDO-Version2.RiceDO_000013
+rot,rot has RiceDO-Version2.RiceDO_000013
+short,short has RiceDO-Version2.RiceDO_000013
+spore,spore has RiceDO-Version2.RiceDO_000013
+spot,spot has RiceDO-Version2.RiceDO_000013
+stunt,stunt has RiceDO-Version2.RiceDO_000013
+swell,swell has RiceDO-Version2.RiceDO_000013
+tall,tall has RiceDO-Version2.RiceDO_000013
+thin,thin has RiceDO-Version2.RiceDO_000013
+transparent,transparent has RiceDO-Version2.RiceDO_000013
+twist,twist has RiceDO-Version2.RiceDO_000013
+unfill,unfill has RiceDO-Version2.RiceDO_000013
+weak,weak has RiceDO-Version2.RiceDO_000013
+wilt,wilt has RiceDO-Version2.RiceDO_000013
+brown planthopper,brown planthopper has RiceDO-Version2.RiceDO_000014
+brown planthopper,brown planthopper has RiceDO-Version2.RiceDO_000150.some(RiceDO-Version2.RiceDO_000126)
+brown planthopper,brown planthopper has RiceDO-Version2.RiceDO_000158.some(obo.PDO_0000126)
+green rice leafhopper,green rice leafhopper has RiceDO-Version2.RiceDO_000014
+green rice leafhopper,green rice leafhopper has RiceDO-Version2.RiceDO_000150.some(RiceDO-Version2.RiceDO_000127)
+green rice leafhopper,green rice leafhopper has RiceDO-Version2.RiceDO_000158.some(obo.PDO_0000131)
+insect as a carrier,insect as a carrier equivalent to RiceDO-Version2.RiceDO_000014 & RiceDO-Version2.RiceDO_000158.some(obo.PDO_0000007)
+insect as a carrier,insect as a carrier has RiceDO-Version2.RiceDO_000014
+rice black bug,rice black bug has RiceDO-Version2.RiceDO_000014
+rice black bug,rice black bug has RiceDO-Version2.RiceDO_000150.some(RiceDO-Version2.RiceDO_000128)
+zigzag leafhopper,zigzag leafhopper has RiceDO-Version2.RiceDO_000014
+zigzag leafhopper,zigzag leafhopper has RiceDO-Version2.RiceDO_000150.some(RiceDO-Version2.RiceDO_000129)
+zigzag leafhopper,zigzag leafhopper has RiceDO-Version2.RiceDO_000158.some(obo.PDO_0000131)
+zigzag leafhopper,zigzag leafhopper has RiceDO-Version2.RiceDO_000158.some(RiceDO-Version2.RiceDO_000146)
+brown planthopper damage,brown planthopper damage equivalent to rdf.CO_320:0000196
+brown planthopper damage,brown planthopper damage has RiceDO-Version2.RiceDO_000015
+brown planthopper damage,brown planthopper damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093 & RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+brown planthopper damage,brown planthopper damage has RiceDO-Version2.RiceDO_000159.some(RiceDO-Version2.RiceDO_000121)
+green rice leafhopper damage,green rice leafhopper damage equivalent to rdf.CO_320:0000200
+green rice leafhopper damage,green rice leafhopper damage has RiceDO-Version2.RiceDO_000015
+green rice leafhopper damage,green rice leafhopper damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+green rice leafhopper damage,green rice leafhopper damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019))
+green rice leafhopper damage,green rice leafhopper damage has RiceDO-Version2.RiceDO_000159.some(RiceDO-Version2.RiceDO_000122)
+rice black bug damage,rice black bug damage has RiceDO-Version2.RiceDO_000015
+rice black bug damage,rice black bug damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000041 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000061 & RiceDO-Version2.RiceDO_000078))
+rice black bug damage,rice black bug damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000056) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000093) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000131))
+rice black bug damage,rice black bug damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000078 & RiceDO-Version2.RiceDO_000079) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice black bug damage,rice black bug damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000112) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000019))
+rice black bug damage,rice black bug damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000118) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000022))
+rice black bug damage,rice black bug damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000120) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024))
+rice black bug damage,rice black bug damage has RiceDO-Version2.RiceDO_000159.some(RiceDO-Version2.RiceDO_000124)
+zigzag leafhopper damage,zigzag leafhopper damage has RiceDO-Version2.RiceDO_000015
+zigzag leafhopper damage,zigzag leafhopper damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000072) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000094) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016 & RiceDO-Version2.RiceDO_000131))
+zigzag leafhopper damage,zigzag leafhopper damage has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000140))
+zigzag leafhopper damage,zigzag leafhopper damage has RiceDO-Version2.RiceDO_000159.some(RiceDO-Version2.RiceDO_000125)
+base leaf,base leaf equivalent to obo.PO_0020040
+base leaf,base leaf has RiceDO-Version2.RiceDO_000016
+boundary leaf,boundary leaf has RiceDO-Version2.RiceDO_000016
+entire leaf,entire leaf has RiceDO-Version2.RiceDO_000016
+first leaf,first leaf has RiceDO-Version2.RiceDO_000016
+flag leaf,flag leaf equivalent to obo.PO_0020103
+flag leaf,flag leaf has RiceDO-Version2.RiceDO_000016
+boundary sheath leaf,sheath leaf is a RiceDO_000136
+center sheath leaf,sheath leaf is a RiceDO_000137
+upper sheath leaf,sheath leaf is a RiceDO_000138
+vein sheath leaf,sheath leaf is a RiceDO_000139
+sheath leaf,sheath leaf equivalent to obo.PO_0020104
+sheath leaf,sheath leaf has RiceDO-Version2.RiceDO_000016
+boundary sheath leaf,boundary sheath leaf equivalent to obo.PO_0025619
+boundary sheath leaf,boundary sheath leaf has RiceDO-Version2.RiceDO_000135
+center sheath leaf,center sheath leaf has RiceDO-Version2.RiceDO_000135
+upper sheath leaf,upper sheath leaf has RiceDO-Version2.RiceDO_000135
+vein sheath leaf,vein sheath leaf has RiceDO-Version2.RiceDO_000135
+tip leaf,tip leaf equivalent to obo.PO_0025142
+tip leaf,tip leaf has RiceDO-Version2.RiceDO_000016
+under side leaf,under side leaf has RiceDO-Version2.RiceDO_000016
+vein leaf,vein leaf has RiceDO-Version2.RiceDO_000016
+lower portion,lower portion has RiceDO-Version2.RiceDO_000023
+rice orange leaf phytoplasma disease,rice orange leaf phytoplasma disease has obo.PDO_0000170
+rice orange leaf phytoplasma disease,rice orange leaf phytoplasma disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000072) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000132 & RiceDO-Version2.RiceDO_000133 & RiceDO-Version2.RiceDO_000140))
+rice orange leaf phytoplasma disease,rice orange leaf phytoplasma disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000095) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000023))
+rice orange leaf phytoplasma disease,rice orange leaf phytoplasma disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024))
+rice orange leaf phytoplasma disease,rice orange leaf phytoplasma disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000094 & RiceDO-Version2.RiceDO_000097) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+rice orange leaf phytoplasma disease,rice orange leaf phytoplasma disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice dirty panicle fungal disease,rice dirty panicle fungal disease has obo.PDO_0000081
+rice dirty panicle fungal disease,rice dirty panicle fungal disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000049 & RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000053 & RiceDO-Version2.RiceDO_000055 & RiceDO-Version2.RiceDO_000066))
+rice dirty panicle fungal disease,rice dirty panicle fungal disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)
+rice gall dwarf virus disease,rice gall dwarf virus disease has obo.PDO_0000007
+rice gall dwarf virus disease,rice gall dwarf virus disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000036)
+rice gall dwarf virus disease,rice gall dwarf virus disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000068) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000109) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000016))
+rice gall dwarf virus disease,rice gall dwarf virus disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000149.some(RiceDO-Version2.RiceDO_000070 & RiceDO-Version2.RiceDO_000076) & RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000104) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000135 & RiceDO-Version2.RiceDO_000141))
+rice gall dwarf virus disease,rice gall dwarf virus disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000106) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000024))
+rice gall dwarf virus disease,rice gall dwarf virus disease has RiceDO-Version2.RiceDO_000147.some(RiceDO-Version2.RiceDO_000155.some(RiceDO-Version2.RiceDO_000113) & RiceDO-Version2.RiceDO_000156.some(RiceDO-Version2.RiceDO_000142))
+rice gall dwarf virus disease,rice gall dwarf virus disease has RiceDO-Version2.RiceDO_000148.some(RiceDO-Version2.RiceDO_000125)
+rice gall dwarf virus disease,rice gall dwarf virus disease has RiceDO-Version2.RiceDO_000157.some(RiceDO-Version2.RiceDO_000052)

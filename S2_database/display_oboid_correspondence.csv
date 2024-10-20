@@ -1,0 +1,165 @@
+Display,OBOID
+rice bacterial disease,http://purl.obolibrary.org/obo/PDO_0000003
+rice viral disease,http://purl.obolibrary.org/obo/PDO_0000007
+rice bacterial blight disease,http://purl.obolibrary.org/obo/PDO_0000014
+rice bacterial leaf streak disease,http://purl.obolibrary.org/obo/PDO_0000019
+rice blast fungal disease,http://purl.obolibrary.org/obo/PDO_0000031
+rice brown spot fungal disease,http://purl.obolibrary.org/obo/PDO_0000033
+rice false smut fungal disease,http://purl.obolibrary.org/obo/PDO_0000041
+rice leaf scald fungal disease,http://purl.obolibrary.org/obo/PDO_0000047
+rice narrow brown leaf spot fungal disease,http://purl.obolibrary.org/obo/PDO_0000049
+rice sheath blight fungal disease,http://purl.obolibrary.org/obo/PDO_0000051
+rice sheath rot fungal disease,http://purl.obolibrary.org/obo/PDO_0000053
+rice stem rot fungal disease,http://purl.obolibrary.org/obo/PDO_0000059
+rice fungal disease,http://purl.obolibrary.org/obo/PDO_0000081
+rice grassy stunt viral disease,http://purl.obolibrary.org/obo/PDO_0000123
+rice rugged stunt viral disease,http://purl.obolibrary.org/obo/PDO_0000126
+rice yellow dwarf phytoplasma disease,http://purl.obolibrary.org/obo/PDO_0000129
+rice tungro viral disease,http://purl.obolibrary.org/obo/PDO_0000131
+rice bakanae fungal disease,http://purl.obolibrary.org/obo/PDO_0000168
+rice phytoplasma disease,http://purl.obolibrary.org/obo/PDO_0000170
+RiceDO Top,http://purl.org/ricedo#RiceDO_000001
+abnormality,http://purl.org/ricedo#RiceDO_000002
+pest,http://purl.org/ricedo#RiceDO_000003
+pest damage,http://purl.org/ricedo#RiceDO_000004
+plant abnormality part,http://purl.org/ricedo#RiceDO_000005
+rice disease,http://purl.org/ricedo#RiceDO_000006
+rice growth stage,http://purl.org/ricedo#RiceDO_000007
+rice growth stage group,http://purl.org/ricedo#RiceDO_000008
+symptom characteristic,http://purl.org/ricedo#RiceDO_000009
+transmission,http://purl.org/ricedo#RiceDO_000010
+color abnormality,http://purl.org/ricedo#RiceDO_000011
+shape abnormality,http://purl.org/ricedo#RiceDO_000012
+symptom abnormality,http://purl.org/ricedo#RiceDO_000013
+insect,http://purl.org/ricedo#RiceDO_000014
+insect damage,http://purl.org/ricedo#RiceDO_000015
+leaf,http://purl.org/ricedo#RiceDO_000016
+neck,http://purl.org/ricedo#RiceDO_000017
+node,http://purl.org/ricedo#RiceDO_000018
+panicle,http://purl.org/ricedo#RiceDO_000019
+root,http://purl.org/ricedo#RiceDO_000020
+seedling,http://purl.org/ricedo#RiceDO_000021
+spikelet,http://purl.org/ricedo#RiceDO_000022
+stem,http://purl.org/ricedo#RiceDO_000023
+tiller,http://purl.org/ricedo#RiceDO_000024
+transmissible rice disease,http://purl.org/ricedo#RiceDO_000026
+flowering,http://purl.org/ricedo#RiceDO_000027
+maturity,http://purl.org/ricedo#RiceDO_000028
+panicle initiation,http://purl.org/ricedo#RiceDO_000029
+tillering,http://purl.org/ricedo#RiceDO_000030
+transplanting,http://purl.org/ricedo#RiceDO_000031
+flowering to maturity,http://purl.org/ricedo#RiceDO_000032
+tillering to maturity,http://purl.org/ricedo#RiceDO_000033
+transplanting to flowering,http://purl.org/ricedo#RiceDO_000034
+transplanting to maturity,http://purl.org/ricedo#RiceDO_000035
+transplanting to panicle intiation,http://purl.org/ricedo#RiceDO_000036
+transplanting to tillering,http://purl.org/ricedo#RiceDO_000037
+dry on leaf,http://purl.org/ricedo#RiceDO_000038
+lesion on leaf,http://purl.org/ricedo#RiceDO_000039
+lesion on neck,http://purl.org/ricedo#RiceDO_000040
+lesion on sheath,http://purl.org/ricedo#RiceDO_000041
+linear lesion on leaf,http://purl.org/ricedo#RiceDO_000042
+linear lesion on sheath,http://purl.org/ricedo#RiceDO_000043
+pimple on leaf,http://purl.org/ricedo#RiceDO_000044
+spore ball,http://purl.org/ricedo#RiceDO_000045
+spot on leaf,http://purl.org/ricedo#RiceDO_000046
+circular spot on leaf,http://purl.org/ricedo#RiceDO_000047
+ellipsoid spot on leaf,http://purl.org/ricedo#RiceDO_000048
+spot on panicle,http://purl.org/ricedo#RiceDO_000049
+spot on sheath,http://purl.org/ricedo#RiceDO_000050
+non transmissible,http://purl.org/ricedo#RiceDO_000051
+transmissible,http://purl.org/ricedo#RiceDO_000052
+black,http://purl.org/ricedo#RiceDO_000053
+greenish black,http://purl.org/ricedo#RiceDO_000054
+brown,http://purl.org/ricedo#RiceDO_000055
+blackish brown,http://purl.org/ricedo#RiceDO_000056
+dark brown,http://purl.org/ricedo#RiceDO_000057
+grayish brown,http://purl.org/ricedo#RiceDO_000058
+light brown,http://purl.org/ricedo#RiceDO_000059
+red brown,http://purl.org/ricedo#RiceDO_000060
+reddish brown,http://purl.org/ricedo#RiceDO_000061
+yellow brown,http://purl.org/ricedo#RiceDO_000062
+gray,http://purl.org/ricedo#RiceDO_000063
+brownish gray,http://purl.org/ricedo#RiceDO_000064
+gray white,http://purl.org/ricedo#RiceDO_000065
+pinkish gray,http://purl.org/ricedo#RiceDO_000066
+green,http://purl.org/ricedo#RiceDO_000067
+dark green,http://purl.org/ricedo#RiceDO_000068
+grayish green,http://purl.org/ricedo#RiceDO_000069
+pale green,http://purl.org/ricedo#RiceDO_000070
+yellowish green,http://purl.org/ricedo#RiceDO_000071
+orange,http://purl.org/ricedo#RiceDO_000072
+purple,http://purl.org/ricedo#RiceDO_000073
+red,http://purl.org/ricedo#RiceDO_000074
+dark reddish,http://purl.org/ricedo#RiceDO_000075
+white,http://purl.org/ricedo#RiceDO_000076
+pinkish white,http://purl.org/ricedo#RiceDO_000077
+yellow,http://purl.org/ricedo#RiceDO_000078
+brownish yellow,http://purl.org/ricedo#RiceDO_000079
+light yellow,http://purl.org/ricedo#RiceDO_000080
+shape of plant part abnormality,http://purl.org/ricedo#RiceDO_000081
+spiral,http://purl.org/ricedo#RiceDO_000082
+shape of symptom abnormality,http://purl.org/ricedo#RiceDO_000083
+ball,http://purl.org/ricedo#RiceDO_000084
+circular,http://purl.org/ricedo#RiceDO_000085
+ellipsoid,http://purl.org/ricedo#RiceDO_000086
+eye,http://purl.org/ricedo#RiceDO_000087
+halo,http://purl.org/ricedo#RiceDO_000088
+linear,http://purl.org/ricedo#RiceDO_000089
+netlike,http://purl.org/ricedo#RiceDO_000090
+oval,http://purl.org/ricedo#RiceDO_000091
+break,http://purl.org/ricedo#RiceDO_000092
+burn,http://purl.org/ricedo#RiceDO_000093
+curl,http://purl.org/ricedo#RiceDO_000094
+death,http://purl.org/ricedo#RiceDO_000095
+discoloration,http://purl.org/ricedo#RiceDO_000096
+dry,http://purl.org/ricedo#RiceDO_000097
+excessive,http://purl.org/ricedo#RiceDO_000098
+fall,http://purl.org/ricedo#RiceDO_000099
+grassy,http://purl.org/ricedo#RiceDO_000100
+lesion,http://purl.org/ricedo#RiceDO_000101
+malform,http://purl.org/ricedo#RiceDO_000102
+narrow,http://purl.org/ricedo#RiceDO_000103
+pimple,http://purl.org/ricedo#RiceDO_000104
+powdery,http://purl.org/ricedo#RiceDO_000105
+reduce,http://purl.org/ricedo#RiceDO_000106
+root growing,http://purl.org/ricedo#RiceDO_000107
+rot,http://purl.org/ricedo#RiceDO_000108
+short,http://purl.org/ricedo#RiceDO_000109
+spore,http://purl.org/ricedo#RiceDO_000110
+spot,http://purl.org/ricedo#RiceDO_000111
+stunt,http://purl.org/ricedo#RiceDO_000112
+swell,http://purl.org/ricedo#RiceDO_000113
+tall,http://purl.org/ricedo#RiceDO_000114
+thin,http://purl.org/ricedo#RiceDO_000115
+transparent,http://purl.org/ricedo#RiceDO_000116
+twist,http://purl.org/ricedo#RiceDO_000117
+unfill,http://purl.org/ricedo#RiceDO_000118
+weak,http://purl.org/ricedo#RiceDO_000119
+wilt,http://purl.org/ricedo#RiceDO_000120
+brown planthopper,http://purl.org/ricedo#RiceDO_000121
+green rice leafhopper,http://purl.org/ricedo#RiceDO_000122
+insect as a carrier,http://purl.org/ricedo#RiceDO_000123
+rice black bug,http://purl.org/ricedo#RiceDO_000124
+zigzag leafhopper,http://purl.org/ricedo#RiceDO_000125
+brown planthopper damage,http://purl.org/ricedo#RiceDO_000126
+green rice leafhopper damage,http://purl.org/ricedo#RiceDO_000127
+rice black bug damage,http://purl.org/ricedo#RiceDO_000128
+zigzag leafhopper damage,http://purl.org/ricedo#RiceDO_000129
+base leaf,http://purl.org/ricedo#RiceDO_000130
+boundary leaf,http://purl.org/ricedo#RiceDO_000131
+entire leaf,http://purl.org/ricedo#RiceDO_000132
+first leaf,http://purl.org/ricedo#RiceDO_000133
+flag leaf,http://purl.org/ricedo#RiceDO_000134
+sheath leaf,http://purl.org/ricedo#RiceDO_000135
+boundary sheath leaf,http://purl.org/ricedo#RiceDO_000136
+center sheath leaf,http://purl.org/ricedo#RiceDO_000137
+upper sheath leaf,http://purl.org/ricedo#RiceDO_000138
+vein sheath leaf,http://purl.org/ricedo#RiceDO_000139
+tip leaf,http://purl.org/ricedo#RiceDO_000140
+under side leaf,http://purl.org/ricedo#RiceDO_000141
+vein leaf,http://purl.org/ricedo#RiceDO_000142
+lower portion,http://purl.org/ricedo#RiceDO_000143
+rice orange leaf phytoplasma disease,http://purl.org/ricedo#RiceDO_000144
+rice dirty panicle fungal disease,http://purl.org/ricedo#RiceDO_000145
+rice gall dwarf virus disease,http://purl.org/ricedo#RiceDO_000146

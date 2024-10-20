@@ -1,0 +1,20 @@
+parent class,rdfs:label,IRI
+SNOMED CT Concept,Observable entity (observable entity),http://snomed.info/id/363787002
+SNOMED CT Concept,Substance (substance),http://snomed.info/id/105590001
+SNOMED CT Concept,Clinical finding (finding),http://snomed.info/id/404684003
+SNOMED CT Concept,Social context (social concept),http://snomed.info/id/48176007
+SNOMED CT Concept,Special concept (special concept),http://snomed.info/id/370115009
+SNOMED CT Concept,Situation with explicit context (situation),http://snomed.info/id/243796009
+SNOMED CT Concept,SNOMED CT Model Component (metadata),http://snomed.info/id/900000000000441003
+SNOMED CT Concept,Organism (organism),http://snomed.info/id/410607006
+SNOMED CT Concept,Environment or geographical location (environment / location),http://snomed.info/id/308916002
+SNOMED CT Concept,Physical object (physical object),http://snomed.info/id/260787004
+SNOMED CT Concept,Pharmaceutical / biologic product (product),http://snomed.info/id/373873005
+SNOMED CT Concept,Physical force (physical force),http://snomed.info/id/78621006
+SNOMED CT Concept,Body structure (body structure),http://snomed.info/id/123037004
+SNOMED CT Concept,Procedure (procedure),http://snomed.info/id/71388002
+SNOMED CT Concept,Event (event),http://snomed.info/id/272379006
+SNOMED CT Concept,Staging and scales (staging scale),http://snomed.info/id/254291000
+SNOMED CT Concept,Record artifact (record artifact),http://snomed.info/id/419891008
+SNOMED CT Concept,Specimen (specimen),http://snomed.info/id/123038009
+SNOMED CT Concept,Qualifier value (qualifier value),http://snomed.info/id/362981000
